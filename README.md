@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou o Thiago Sena 👋
 
-<!--
-**Sena006/Sena006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Interessado em desenvolvimento de software e automação de dados  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- SQL
+- Excel
+- Git e GitHub
+
+## 📊 Projetos
+
+🔹 Automação de Planilhas com Python  
+Script desenvolvido para leitura e organização de dados em planilhas Excel.
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/thiago-sena-7b7031216  
+Email: thiagosena15007@gmail.com
